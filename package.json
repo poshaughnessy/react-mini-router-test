@@ -1,0 +1,15 @@
+{
+  "name": "react-mini-router-test",
+  "version": "0.0.1",
+  "engines": {
+    "node": "~0.10.0",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "react": "~0.12.1",
+    "react-mini-router": "~1.0.0"
+  },
+  "devDependencies": {
+    "express": "~4.10.4"
+  }
+}

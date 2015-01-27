@@ -1,0 +1,7 @@
+{
+  "name": "react-mini-router-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}
