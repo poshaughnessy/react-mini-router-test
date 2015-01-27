@@ -16,7 +16,7 @@ var PageComponent = React.createClass({
         return (
             React.createElement("div", null,
                 React.createElement("h1", null, "Page ", this.props.number),
-                React.createElement("p", null, React.createElement("a", {href: "/"}, "Home"),
+                React.createElement("p", null, React.createElement("a", {href: "/"}, "Home")),
                 React.createElement("p", null, React.createElement("a", {href: "/one"}, "Page one")),
                 React.createElement("p", null, React.createElement("a", {href: "/two"}, "Page two")),
                 React.createElement("p", null, React.createElement("a", {href: "/three"}, "Page three"))
